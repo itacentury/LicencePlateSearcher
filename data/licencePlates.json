@@ -1,0 +1,7297 @@
+[
+	{
+		"Zeichen": "A",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Augsburg",
+			"Landkreis Augsburg"
+		],
+		"abgeleitet_von": [
+			"Augsburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "AA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ostalbkreis"
+		],
+		"abgeleitet_von": [
+			"AAlen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "AB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Aschaffenburg",
+			"Landkreis Aschaffenburg"
+		],
+		"abgeleitet_von": [
+			"AschaffenBurg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ABG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Altenburger Land"
+		],
+		"abgeleitet_von": [
+			"AltenBurG"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "ABI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Anhalt-Bitterfeld"
+		],
+		"abgeleitet_von": [
+			"Anhalt-BItterfeld"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "AC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Städteregion Aachen"
+		],
+		"abgeleitet_von": [
+			"AaChen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "AE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Vogtlandkreis"
+		],
+		"abgeleitet_von": [
+			"AuErbach"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "AH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Borken"
+		],
+		"abgeleitet_von": [
+			"AHaus"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "AIB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis München",
+			"Landkreis Rosenheim"
+		],
+		"abgeleitet_von": [
+			"AIBling"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "AIC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Aichach-Friedberg"
+		],
+		"abgeleitet_von": [
+			"AIChach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "AK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Altenkirchen (Westerwald)"
+		],
+		"abgeleitet_von": [
+			"AltenKirchen"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "ALF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Hildesheim"
+		],
+		"abgeleitet_von": [
+			"ALFeld"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "ALZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Aschaffenburg"
+		],
+		"abgeleitet_von": [
+			"ALZenau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "AM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Amberg"
+		],
+		"abgeleitet_von": [
+			"AMberg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "AN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Ansbach",
+			"Landkreis Ansbach"
+		],
+		"abgeleitet_von": [
+			"ANsbach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ANA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Erzgebirgskreis"
+		],
+		"abgeleitet_von": [
+			"ANnAberg"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "ANG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Uckermark"
+		],
+		"abgeleitet_von": [
+			"ANGermünde"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "ANK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"ANKlam"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "AÖ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Altötting"
+		],
+		"abgeleitet_von": [
+			"AltÖtting"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "AP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Weimarer Land"
+		],
+		"abgeleitet_von": [
+			"APolda"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "APD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Weimarer Land"
+		],
+		"abgeleitet_von": [
+			"APolDa"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "ARN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ilm-Kreis"
+		],
+		"abgeleitet_von": [
+			"ARNstadt"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "ART",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kyffhäuserkreis"
+		],
+		"abgeleitet_von": [
+			"ARTern"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "AS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Amberg-Sulzbach"
+		],
+		"abgeleitet_von": [
+			"Amberg, Sulzbach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ASL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Salzlandkreis"
+		],
+		"abgeleitet_von": [
+			"ASchersLeben"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "ASZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Erzgebirgskreis"
+		],
+		"abgeleitet_von": [
+			"Aue, SchwarZenberg"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "AT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"AltenTreptow"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "AU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Erzgebirgskreis"
+		],
+		"abgeleitet_von": [
+			"AUe"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "AUR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Aurich"
+		],
+		"abgeleitet_von": [
+			"AURich"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "AW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ahrweiler"
+		],
+		"abgeleitet_von": [
+			"AhrWeiler"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "AZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Alzey-Worms"
+		],
+		"abgeleitet_von": [
+			"AlZey"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "AZE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Anhalt-Bitterfeld"
+		],
+		"abgeleitet_von": [
+			"Anhalt-ZErbst"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "B",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Berlin",
+			"Berlin, Senat und Abgeordnetenhaus",
+			"Diplomaten"
+		],
+		"abgeleitet_von": [
+			"Berlin"
+		],
+		"Bundesland": "Berlin"
+	},
+	{
+		"Zeichen": "BA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Bamberg",
+			"Landkreis Bamberg"
+		],
+		"abgeleitet_von": [
+			"BAmberg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "BAD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Baden-Baden"
+		],
+		"abgeleitet_von": [
+			"BADen-Baden"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "BAR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Barnim"
+		],
+		"abgeleitet_von": [
+			"BARnim"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "BB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Böblingen"
+		],
+		"abgeleitet_von": [
+			"BöBlingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "BBG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Salzlandkreis"
+		],
+		"abgeleitet_von": [
+			"BernBurG"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "BBL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Brandenburg, Landesregierung, Landtag und Polizei"
+		],
+		"abgeleitet_von": [
+			"BrandenBurgische Landesregierung"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "BC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Biberach"
+		],
+		"abgeleitet_von": [
+			"BiberaCh"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "BCH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Neckar-Odenwald-Kreis"
+		],
+		"abgeleitet_von": [
+			"BuCHen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "BD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Deutscher Bundestag, Bundesrat, Bundespräsidialamt, Bundesregierung, Bundesministerien, Bundesfinanzverwaltung (z. B. Zoll) und Bundesverfassungsgericht"
+		],
+		"abgeleitet_von": [
+			"BundesDienst"
+		],
+		"Bundesland": "bundesweit"
+	},
+	{
+		"Zeichen": "BE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Warendorf"
+		],
+		"abgeleitet_von": [
+			"BEckum"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BED",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mittelsachsen"
+		],
+		"abgeleitet_von": [
+			"Brand-ErbisDorf"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "BER",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Barnim"
+		],
+		"abgeleitet_von": [
+			"BERnau"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "BF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Steinfurt"
+		],
+		"abgeleitet_von": [
+			"BurgsteinFurt"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BGD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Berchtesgadener Land"
+		],
+		"abgeleitet_von": [
+			"BerchtesGaDen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "BGL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Berchtesgadener Land"
+		],
+		"abgeleitet_von": [
+			"BerchtesGadener Land"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "BH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ortenaukreis",
+			"Landkreis Rastatt"
+		],
+		"abgeleitet_von": [
+			"BüHl"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "BI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Bielefeld"
+		],
+		"abgeleitet_von": [
+			"BIelefeld"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BID",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Marburg-Biedenkopf"
+		],
+		"abgeleitet_von": [
+			"BIeDenkopf"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "BIN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mainz-Bingen"
+		],
+		"abgeleitet_von": [
+			"BINgen"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "BIR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Birkenfeld"
+		],
+		"abgeleitet_von": [
+			"BIRkenfeld"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "BIT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Eifelkreis Bitburg-Prüm"
+		],
+		"abgeleitet_von": [
+			"BITburg"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "BIW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bautzen"
+		],
+		"abgeleitet_von": [
+			"BIschofsWerda"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "BK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rems-Murr-Kreis",
+			"Landkreis Schwäbisch Hall",
+			"Landkreis Börde"
+		],
+		"abgeleitet_von": [
+			"BacKnang",
+			"Börde (Kreis)"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "BKS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bernkastel-Wittlich"
+		],
+		"abgeleitet_von": [
+			"BernKaStel"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "BL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Zollernalbkreis"
+		],
+		"abgeleitet_von": [
+			"BaLingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "BLB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Siegen-Wittgenstein"
+		],
+		"abgeleitet_von": [
+			"BerLeBurg"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BLK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Burgenlandkreis"
+		],
+		"abgeleitet_von": [
+			"BurgenLandKreis"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "BM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Erft-Kreis"
+		],
+		"abgeleitet_von": [
+			"BergheiM"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Bonn",
+			"Diplomaten"
+		],
+		"abgeleitet_von": [
+			"BonN"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BNA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Leipzig"
+		],
+		"abgeleitet_von": [
+			"BorNA"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "BO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Bochum"
+		],
+		"abgeleitet_von": [
+			"BOchum"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BÖ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Börde"
+		],
+		"abgeleitet_von": [
+			"BÖrde"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "BOG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Straubing-Bogen"
+		],
+		"abgeleitet_von": [
+			"BOGen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "BOH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Borken"
+		],
+		"abgeleitet_von": [
+			"BOcHolt"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BOR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Borken"
+		],
+		"abgeleitet_von": [
+			"BORken"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BOT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Bottrop"
+		],
+		"abgeleitet_von": [
+			"BOTtrop"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Bundespolizei"
+		],
+		"abgeleitet_von": [
+			"BundesPolizei"
+		],
+		"Bundesland": "bundesweit"
+	},
+	{
+		"Zeichen": "BRA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Wesermarsch"
+		],
+		"abgeleitet_von": [
+			"BRAke"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "BRB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Brandenburg an der Havel"
+		],
+		"abgeleitet_von": [
+			"BRandenBurg"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "BRG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Jerichower Land"
+		],
+		"abgeleitet_von": [
+			"BuRG"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "BRK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bad Kissingen"
+		],
+		"abgeleitet_von": [
+			"BRücKenau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "BRL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Goslar"
+		],
+		"abgeleitet_von": [
+			"BRaunLage"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "BRV",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rotenburg (Wümme)"
+		],
+		"abgeleitet_von": [
+			"BRemerVörde"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "BS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Braunschweig"
+		],
+		"abgeleitet_von": [
+			"BraunSchweig"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "BSB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Osnabrück"
+		],
+		"abgeleitet_von": [
+			"BerSenBrück"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "BSK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Oder-Spree"
+		],
+		"abgeleitet_von": [
+			"BeeSKow"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "BT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Bayreuth",
+			"Landkreis Bayreuth"
+		],
+		"abgeleitet_von": [
+			"BayreuTh"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "BTF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Anhalt-Bitterfeld"
+		],
+		"abgeleitet_von": [
+			"BitTerFeld"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "BÜD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Wetteraukreis"
+		],
+		"abgeleitet_von": [
+			"BÜDingen"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "BUL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Amberg-Sulzbach",
+			"Landkreis Schwandorf"
+		],
+		"abgeleitet_von": [
+			"BUrgLengenfeld"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "BÜR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Paderborn"
+		],
+		"abgeleitet_von": [
+			"BÜRen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "BÜS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Gemeinde Büsingen am Hochrhein (Gemeinde im Landkreis Konstanz, deutsche Exklave in der Schweiz)"
+		],
+		"abgeleitet_von": [
+			"BÜSingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "BÜZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rostock"
+		],
+		"abgeleitet_von": [
+			"BÜtZow"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "BW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Wasserstraßen- und Schifffahrtsverwaltung des Bundes"
+		],
+		"abgeleitet_von": [
+			"Bundes-Wasserstraßen- und Schifffahrtsverwaltung"
+		],
+		"Bundesland": "bundesweit"
+	},
+	{
+		"Zeichen": "BWL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Baden-Württemberg, Landesregierung, Landtag und Polizei"
+		],
+		"abgeleitet_von": [
+			"Baden-Württembergischer Landtag"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "BYL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Bayern, Landesregierung und Landtag"
+		],
+		"abgeleitet_von": [
+			"BaYerischer Landtag"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "BZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bautzen"
+		],
+		"abgeleitet_von": [
+			"BautZen"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "C",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Chemnitz"
+		],
+		"abgeleitet_von": [
+			"Chemnitz"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "CA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Oberspreewald-Lausitz"
+		],
+		"abgeleitet_von": [
+			"CAlau"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "CAS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Recklinghausen"
+		],
+		"abgeleitet_von": [
+			"CAStrop"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "CB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Cottbus"
+		],
+		"abgeleitet_von": [
+			"CottBus"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "CE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Celle"
+		],
+		"abgeleitet_von": [
+			"CElle"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "CHA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Cham"
+		],
+		"abgeleitet_von": [
+			"CHAm"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "CLP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Cloppenburg"
+		],
+		"abgeleitet_von": [
+			"CLopPenburg"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "CLZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Goslar"
+		],
+		"abgeleitet_von": [
+			"CLausthal-Zellerfeld"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "CO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Coburg und Landkreis Coburg"
+		],
+		"abgeleitet_von": [
+			"COburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "COC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Cochem-Zell"
+		],
+		"abgeleitet_von": [
+			"COChem"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "COE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Coesfeld"
+		],
+		"abgeleitet_von": [
+			"COEsfeld"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "CR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Schwäbisch Hall"
+		],
+		"abgeleitet_von": [
+			"CRailsheim"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "CUX",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Cuxhaven"
+		],
+		"abgeleitet_von": [
+			"CUXhaven"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "CW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Calw"
+		],
+		"abgeleitet_von": [
+			"CalW"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "D",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Düsseldorf"
+		],
+		"abgeleitet_von": [
+			"Düsseldorf"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "DA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Darmstadt-Dieburg und Stadt Darmstadt"
+		],
+		"abgeleitet_von": [
+			"DArmstadt"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "DAH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Dachau"
+		],
+		"abgeleitet_von": [
+			"DAcHau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "DAN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Lüchow-Dannenberg"
+		],
+		"abgeleitet_von": [
+			"DANnenberg"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "DAU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vulkaneifel"
+		],
+		"abgeleitet_von": [
+			"DAUn"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "DBR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rostock"
+		],
+		"abgeleitet_von": [
+			"DoBeRan"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "DD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Dresden",
+			"Polizei Sachsen"
+		],
+		"abgeleitet_von": [
+			"DresDen"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "DE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Dessau-Roßlau"
+		],
+		"abgeleitet_von": [
+			"DEssau"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "DEG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Deggendorf"
+		],
+		"abgeleitet_von": [
+			"DEGgendorf"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "DEL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Delmenhorst"
+		],
+		"abgeleitet_von": [
+			"DELmenhorst"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "DGF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Dingolfing-Landau"
+		],
+		"abgeleitet_von": [
+			"DinGolFing"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "DH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Diepholz"
+		],
+		"abgeleitet_von": [
+			"DiepHolz"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "DI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Darmstadt-Dieburg"
+		],
+		"abgeleitet_von": [
+			"DIeburg"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "DIL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Lahn-Dill-Kreis"
+		],
+		"abgeleitet_von": [
+			"DILlenburg"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "DIN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Wesel"
+		],
+		"abgeleitet_von": [
+			"DINslaken"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "DIZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Lahn-Kreis"
+		],
+		"abgeleitet_von": [
+			"DIeZ"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "DKB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ansbach"
+		],
+		"abgeleitet_von": [
+			"DinKelsBühl"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "DL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mittelsachsen"
+		],
+		"abgeleitet_von": [
+			"DöbeLn"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "DLG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Dillingen an der Donau"
+		],
+		"abgeleitet_von": [
+			"DilLinGen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "DM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"DemMin"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "DN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Düren"
+		],
+		"abgeleitet_von": [
+			"DüreN"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "DO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Dortmund"
+		],
+		"abgeleitet_von": [
+			"DOrtmund"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "DON",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Donau-Ries"
+		],
+		"abgeleitet_von": [
+			"DONauwörth"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "DU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Duisburg"
+		],
+		"abgeleitet_von": [
+			"DUisburg"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "DUD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Göttingen ohne die Stadt Göttingen"
+		],
+		"abgeleitet_von": [
+			"DUDerstadt"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "DÜW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bad Dürkheim"
+		],
+		"abgeleitet_von": [
+			"DÜrkheim an der Weinstraße"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "DW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Sächsische Schweiz-Osterzgebirge"
+		],
+		"abgeleitet_von": [
+			"DippoldisWalde"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "DZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordsachsen"
+		],
+		"abgeleitet_von": [
+			"DelitZsch"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "E",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Essen"
+		],
+		"abgeleitet_von": [
+			"Essen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "EA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Wartburgkreis"
+		],
+		"abgeleitet_von": [
+			"EisenAch"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "EB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordsachsen"
+		],
+		"abgeleitet_von": [
+			"EilenBurg"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "EBE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ebersberg"
+		],
+		"abgeleitet_von": [
+			"EBErsberg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "EBN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Haßberge"
+		],
+		"abgeleitet_von": [
+			"EBerN"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "EBS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bayreuth",
+			"Landkreis Forchheim",
+			"Landkreis Kulmbach"
+		],
+		"abgeleitet_von": [
+			"EBermannStadt"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ECK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Rendsburg-Eckernförde"
+		],
+		"abgeleitet_von": [
+			"ECKernförde"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "ED",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Erding"
+		],
+		"abgeleitet_von": [
+			"ErDing"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "EE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Elbe-Elster"
+		],
+		"abgeleitet_von": [
+			"Elbe, Elster"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "EF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Erfurt"
+		],
+		"abgeleitet_von": [
+			"ErFurt"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "EG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rottal-Inn"
+		],
+		"abgeleitet_von": [
+			"EGgenfelden"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "EH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Oder-Spree"
+		],
+		"abgeleitet_von": [
+			"EisenHüttenstadt"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "EI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Eichstätt"
+		],
+		"abgeleitet_von": [
+			"EIchstätt"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "EIC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Eichsfeld"
+		],
+		"abgeleitet_von": [
+			"EIChsfeld"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "EIL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mansfeld-Südharz"
+		],
+		"abgeleitet_von": [
+			"EIsLeben"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "EIN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Northeim"
+		],
+		"abgeleitet_von": [
+			"EINbeck"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "EIS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saale-Holzland-Kreis"
+		],
+		"abgeleitet_von": [
+			"EISenberg"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "EL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Emsland"
+		],
+		"abgeleitet_von": [
+			"EmsLand"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "EM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Emmendingen"
+		],
+		"abgeleitet_von": [
+			"EMmendingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "EMD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Emden"
+		],
+		"abgeleitet_von": [
+			"EMDen"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "EMS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Lahn-Kreis"
+		],
+		"abgeleitet_von": [
+			"EMS"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "EN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ennepe-Ruhr-Kreis"
+		],
+		"abgeleitet_von": [
+			"ENnepe"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "ER",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Erlangen"
+		],
+		"abgeleitet_von": [
+			"ERlangen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ERB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Odenwaldkreis"
+		],
+		"abgeleitet_von": [
+			"ERBach"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "ERH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Erlangen-Höchstadt"
+		],
+		"abgeleitet_von": [
+			"ERlangen, Höchstadt"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ERK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Heinsberg"
+		],
+		"abgeleitet_von": [
+			"ERKelenz"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "ERZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Erzgebirgskreis"
+		],
+		"abgeleitet_von": [
+			"ERZgebirge"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "ES",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Esslingen"
+		],
+		"abgeleitet_von": [
+			"ESslingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "ESB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Amberg-Sulzbach",
+			"Landkreis Bayreuth",
+			"Landkreis Neustadt an der Waldnaab",
+			"Landkreis Nürnberger Land"
+		],
+		"abgeleitet_von": [
+			"ESchenBach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ESW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Werra-Meißner-Kreis"
+		],
+		"abgeleitet_von": [
+			"ESchWege"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "EU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Euskirchen"
+		],
+		"abgeleitet_von": [
+			"EUskirchen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "EW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Barnim"
+		],
+		"abgeleitet_von": [
+			"EbersWalde"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "F",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Frankfurt am Main"
+		],
+		"abgeleitet_von": [
+			"Frankfurt"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "FB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Wetteraukreis"
+		],
+		"abgeleitet_von": [
+			"FriedBerg"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "FD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Fulda"
+		],
+		"abgeleitet_von": [
+			"FulDa"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "FDB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Aichach-Friedberg"
+		],
+		"abgeleitet_von": [
+			"FrieDBerg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "FDS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Freudenstadt"
+		],
+		"abgeleitet_von": [
+			"FreuDenStadt"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "FEU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ansbach"
+		],
+		"abgeleitet_von": [
+			"FEUchtwangen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "FF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Frankfurt (Oder)"
+		],
+		"abgeleitet_von": [
+			"FrankFurt"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "FFB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Fürstenfeldbruck"
+		],
+		"abgeleitet_von": [
+			"FürstenFeldBruck"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "FG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mittelsachsen"
+		],
+		"abgeleitet_von": [
+			"FreiberG"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "FI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Elbe-Elster"
+		],
+		"abgeleitet_von": [
+			"FInsterwalde"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "FKB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Waldeck-Frankenberg"
+		],
+		"abgeleitet_von": [
+			"FranKenBerg"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "FL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Flensburg"
+		],
+		"abgeleitet_von": [
+			"FLensburg"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "FLÖ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mittelsachsen"
+		],
+		"abgeleitet_von": [
+			"FLÖha"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "FN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Bodenseekreis"
+		],
+		"abgeleitet_von": [
+			"FriedrichshafeN"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "FO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Forchheim"
+		],
+		"abgeleitet_von": [
+			"FOrchheim"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "FOR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Spree-Neiße"
+		],
+		"abgeleitet_von": [
+			"FORst"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "FR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Freiburg im Breisgau",
+			"Landkreis Breisgau-Hochschwarzwald"
+		],
+		"abgeleitet_von": [
+			"FReiburg"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "FRG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Freyung-Grafenau"
+		],
+		"abgeleitet_von": [
+			"FReyung, Grafenau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "FRI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Friesland"
+		],
+		"abgeleitet_von": [
+			"FRIesland"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "FRW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Märkisch-Oderland"
+		],
+		"abgeleitet_von": [
+			"FReienWalde"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "FS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Freising"
+		],
+		"abgeleitet_von": [
+			"FreiSing"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "FT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Frankenthal (Pfalz)"
+		],
+		"abgeleitet_von": [
+			"FrankenThal"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "FTL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Sächsische Schweiz-Osterzgebirge"
+		],
+		"abgeleitet_von": [
+			"FreiTaL"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "FÜ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Fürth",
+			"Landkreis Fürth"
+		],
+		"abgeleitet_von": [
+			"FÜrth"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "FÜS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ostallgäu"
+		],
+		"abgeleitet_von": [
+			"FÜSsen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "FW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Oder-Spree"
+		],
+		"abgeleitet_von": [
+			"FürstenWalde"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "FZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Schwalm-Eder-Kreis"
+		],
+		"abgeleitet_von": [
+			"FritZlar"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "G",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Gera"
+		],
+		"abgeleitet_von": [
+			"Gera"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "GA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Altmarkkreis Salzwedel"
+		],
+		"abgeleitet_von": [
+			"GArdelegen"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "GAN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Northeim"
+		],
+		"abgeleitet_von": [
+			"GANdersheim"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "GAP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Garmisch-Partenkirchen"
+		],
+		"abgeleitet_von": [
+			"GArmisch-Partenkirchen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "GC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Zwickau"
+		],
+		"abgeleitet_von": [
+			"GlauChau"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "GD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ostalbkreis"
+		],
+		"abgeleitet_von": [
+			"GmünD"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "GDB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordwestmecklenburg ohne die Stadt Wismar"
+		],
+		"abgeleitet_von": [
+			"GaDeBusch"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "GE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Gelsenkirchen"
+		],
+		"abgeleitet_von": [
+			"GElsenkirchen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "GEL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Kleve"
+		],
+		"abgeleitet_von": [
+			"GELdern"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "GEO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Haßberge",
+			"Landkreis Schweinfurt"
+		],
+		"abgeleitet_von": [
+			"GErOlzhofen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "GER",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Germersheim"
+		],
+		"abgeleitet_von": [
+			"GERmersheim"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "GF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Gifhorn"
+		],
+		"abgeleitet_von": [
+			"GiFhorn"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "GG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Groß-Gerau"
+		],
+		"abgeleitet_von": [
+			"Groß-Gerau"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "GHA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Leipzig"
+		],
+		"abgeleitet_von": [
+			"GeitHAin"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "GHC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Wittenberg"
+		],
+		"abgeleitet_von": [
+			"GräfenHainiChen"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "GI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Gießen"
+		],
+		"abgeleitet_von": [
+			"GIeßen"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "GK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Heinsberg"
+		],
+		"abgeleitet_von": [
+			"GeilenKirchen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "GL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rheinisch-Bergischer Kreis"
+		],
+		"abgeleitet_von": [
+			"GLadbach"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "GLA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Recklinghausen"
+		],
+		"abgeleitet_von": [
+			"GLAdbeck"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "GM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Oberbergischer Kreis"
+		],
+		"abgeleitet_von": [
+			"GumMersbach"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "GMN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Rügen ohne die Stadt Stralsund"
+		],
+		"abgeleitet_von": [
+			"GrimMeN"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "GN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Main-Kinzig-Kreis ohne die Stadt Hanau"
+		],
+		"abgeleitet_von": [
+			"GelnhauseN"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "GNT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Jerichower Land"
+		],
+		"abgeleitet_von": [
+			"GeNThin"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "GÖ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Göttingen",
+			"Stadt Göttingen"
+		],
+		"abgeleitet_von": [
+			"GÖttingen"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "GOA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Hunsrück-Kreis"
+		],
+		"abgeleitet_von": [
+			"Sankt GOAr"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "GOH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Lahn-Kreis"
+		],
+		"abgeleitet_von": [
+			"Sankt GOarsHausen"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "GP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Göppingen"
+		],
+		"abgeleitet_von": [
+			"GöpPingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "GR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Görlitz"
+		],
+		"abgeleitet_von": [
+			"GöRlitz"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "GRA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Freyung-Grafenau"
+		],
+		"abgeleitet_von": [
+			"GRAfenau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "GRH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Meißen"
+		],
+		"abgeleitet_von": [
+			"GRoßenHain"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "GRI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rottal-Inn"
+		],
+		"abgeleitet_von": [
+			"GRIesbach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "GRM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Leipzig"
+		],
+		"abgeleitet_von": [
+			"GRimMa"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "GRZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Greiz"
+		],
+		"abgeleitet_von": [
+			"GReiZ"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "GS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Goslar"
+		],
+		"abgeleitet_von": [
+			"GoSlar"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "GT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Gütersloh"
+		],
+		"abgeleitet_von": [
+			"GüTersloh"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "GTH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Gotha"
+		],
+		"abgeleitet_von": [
+			"GoTHa"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "GÜ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rostock"
+		],
+		"abgeleitet_von": [
+			"GÜstrow"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "GUB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Spree-Neiße"
+		],
+		"abgeleitet_von": [
+			"GUBen"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "GUN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Weißenburg-Gunzenhausen"
+		],
+		"abgeleitet_von": [
+			"GUNzenhausen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "GV",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Kreis Neuss"
+		],
+		"abgeleitet_von": [
+			"GreVenbroich"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "GVM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordwestmecklenburg ohne die Stadt Wismar"
+		],
+		"abgeleitet_von": [
+			"GreVesMühlen"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "GW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"GreifsWald"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "GZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Günzburg"
+		],
+		"abgeleitet_von": [
+			"GünZburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "H",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Region Hannover",
+			"Stadt Hannover"
+		],
+		"abgeleitet_von": [
+			"Hannover"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "HA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Hagen"
+		],
+		"abgeleitet_von": [
+			"HAgen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "HAB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bad Kissingen"
+		],
+		"abgeleitet_von": [
+			"HAmmelBurg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "HAL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Halle (Saale)"
+		],
+		"abgeleitet_von": [
+			"HALle"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "HAM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Hamm"
+		],
+		"abgeleitet_von": [
+			"HAMm"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "HAS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Haßberge"
+		],
+		"abgeleitet_von": [
+			"HASsfurt"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "HB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Bremen, Senat und Bürgerschaft",
+			"Stadt Bremerhaven"
+		],
+		"abgeleitet_von": [
+			"Hansestadt Bremen"
+		],
+		"Bundesland": "Bremen"
+	},
+	{
+		"Zeichen": "HBN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Hildburghausen"
+		],
+		"abgeleitet_von": [
+			"HildBurghauseN"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "HBS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Harz"
+		],
+		"abgeleitet_von": [
+			"HalBerStadt"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "HC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mittelsachsen"
+		],
+		"abgeleitet_von": [
+			"HainiChen"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "HCH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Freudenstadt",
+			"Zollernalbkreis"
+		],
+		"abgeleitet_von": [
+			"HeCHingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "HD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Heidelberg",
+			"Rhein-Neckar-Kreis"
+		],
+		"abgeleitet_von": [
+			"HeiDelberg"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "HDH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Heidenheim"
+		],
+		"abgeleitet_von": [
+			"HeiDenHeim"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "HDL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Börde"
+		],
+		"abgeleitet_von": [
+			"HalDensLeben"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "HE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Helmstedt"
+		],
+		"abgeleitet_von": [
+			"HElmstedt"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "HEB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nürnberger Land"
+		],
+		"abgeleitet_von": [
+			"HErsBruck"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "HEF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Hersfeld-Rotenburg"
+		],
+		"abgeleitet_von": [
+			"HErsFeld"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "HEI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Dithmarschen"
+		],
+		"abgeleitet_von": [
+			"HEIde"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "HEL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Hessen, Landesregierung und Landtag"
+		],
+		"abgeleitet_von": [
+			"HEssischer Landtag"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "HER",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Herne"
+		],
+		"abgeleitet_von": [
+			"HERne"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "HET",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mansfeld-Südharz"
+		],
+		"abgeleitet_von": [
+			"HETtstedt"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "HF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Herford"
+		],
+		"abgeleitet_von": [
+			"HerFord"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "HG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Hochtaunuskreis"
+		],
+		"abgeleitet_von": [
+			"HomburG"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "HGN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ludwigslust-Parchim"
+		],
+		"abgeleitet_von": [
+			"HaGeNow"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "HGW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"Hansestadt GreifsWald"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "HH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Freie und Hansestadt Hamburg, Senat und Bürgerschaft"
+		],
+		"abgeleitet_von": [
+			"Hansestadt Hamburg"
+		],
+		"Bundesland": "Hamburg"
+	},
+	{
+		"Zeichen": "HHM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Burgenlandkreis"
+		],
+		"abgeleitet_von": [
+			"HoHenMölsen"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "HI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Hildesheim"
+		],
+		"abgeleitet_von": [
+			"HIldesheim"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "HIG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Eichsfeld"
+		],
+		"abgeleitet_von": [
+			"HeilIGenstadt"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "HIP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Roth"
+		],
+		"abgeleitet_von": [
+			"HIlPoltstein"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "HK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Heidekreis"
+		],
+		"abgeleitet_von": [
+			"HeideKreis"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "HL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Lübeck"
+		],
+		"abgeleitet_von": [
+			"Hansestadt Lübeck"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "HM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Hameln-Pyrmont"
+		],
+		"abgeleitet_von": [
+			"HaMeln"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "HMÜ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Göttingen ohne die Stadt Göttingen"
+		],
+		"abgeleitet_von": [
+			"Hann. MÜnden"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "HN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Heilbronn",
+			"Landkreis Heilbronn"
+		],
+		"abgeleitet_von": [
+			"HeilbronN"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "HO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Hof",
+			"Landkreis Hof"
+		],
+		"abgeleitet_von": [
+			"HOf"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "HOG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kassel"
+		],
+		"abgeleitet_von": [
+			"HOfGeismar"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "HOH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Haßberge"
+		],
+		"abgeleitet_von": [
+			"HOfHeim"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "HOL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Holzminden"
+		],
+		"abgeleitet_von": [
+			"HOLzminden"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "HOM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saarpfalz-Kreis ohne die Stadt St. Ingbert"
+		],
+		"abgeleitet_von": [
+			"HOMburg"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "HOR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Freudenstadt"
+		],
+		"abgeleitet_von": [
+			"HORb"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "HÖS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Erlangen-Höchstadt"
+		],
+		"abgeleitet_von": [
+			"HÖchStadt"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "HOT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Zwickau"
+		],
+		"abgeleitet_von": [
+			"HOhensTein"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "HP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Bergstraße"
+		],
+		"abgeleitet_von": [
+			"HepPenheim"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "HR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Schwalm-Eder-Kreis"
+		],
+		"abgeleitet_von": [
+			"HombeRg"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "HRO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Rostock"
+		],
+		"abgeleitet_von": [
+			"Hansestadt ROstock"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "HS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Heinsberg"
+		],
+		"abgeleitet_von": [
+			"HeinSberg"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "HSK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Hochsauerlandkreis"
+		],
+		"abgeleitet_von": [
+			"HochSauerlandKreis"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "HST",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Stralsund"
+		],
+		"abgeleitet_von": [
+			"Hansestadt STralsund"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "HU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Hanau (Sonderstatusstadt im Main-Kinzig-Kreis)",
+			"Main-Kinzig-Kreis (übriges Kreisgebiet)"
+		],
+		"abgeleitet_von": [
+			"HanaU"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "HV",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Stendal"
+		],
+		"abgeleitet_von": [
+			"HaVelberg"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "HVL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Havelland"
+		],
+		"abgeleitet_von": [
+			"HaVelLand"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "HWI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Wismar"
+		],
+		"abgeleitet_von": [
+			"Hansestadt WIsmar"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "HX",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Höxter"
+		],
+		"abgeleitet_von": [
+			"HöXter"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "HY",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bautzen"
+		],
+		"abgeleitet_von": [
+			"HoYerswerda"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "HZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Harz"
+		],
+		"abgeleitet_von": [
+			"HarZ"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "IGB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt St. Ingbert (Mittelstadt im Saarpfalz-Kreis)"
+		],
+		"abgeleitet_von": [
+			"InGBert"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "IK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ilm-Kreis"
+		],
+		"abgeleitet_von": [
+			"Ilm-Kreis"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "IL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ilm-Kreis"
+		],
+		"abgeleitet_von": [
+			"ILmenau"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "ILL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neu-Ulm"
+		],
+		"abgeleitet_von": [
+			"ILLertissen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "IN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Ingolstadt"
+		],
+		"abgeleitet_von": [
+			"INgolstadt"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "IZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Steinburg"
+		],
+		"abgeleitet_von": [
+			"ItZehoe"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "J",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Jena"
+		],
+		"abgeleitet_von": [
+			"Jena"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "JE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Wittenberg"
+		],
+		"abgeleitet_von": [
+			"JEssen"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "JL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Jerichower Land"
+		],
+		"abgeleitet_von": [
+			"Jerichower Land"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "JÜL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Düren"
+		],
+		"abgeleitet_von": [
+			"JÜLich"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "K",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Köln"
+		],
+		"abgeleitet_von": [
+			"Köln"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "KA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Karlsruhe",
+			"Landkreis Karlsruhe"
+		],
+		"abgeleitet_von": [
+			"KArlsruhe"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "KB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Waldeck-Frankenberg"
+		],
+		"abgeleitet_von": [
+			"KorBach"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "KC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kronach"
+		],
+		"abgeleitet_von": [
+			"KronaCh"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Kempten (Allgäu)"
+		],
+		"abgeleitet_von": [
+			"KEmpten"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KEH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kelheim"
+		],
+		"abgeleitet_von": [
+			"KElHeim"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KEL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ortenaukreis"
+		],
+		"abgeleitet_von": [
+			"KEhL"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "KEM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bayreuth",
+			"Landkreis Tirschenreuth"
+		],
+		"abgeleitet_von": [
+			"KEMnath"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Kaufbeuren"
+		],
+		"abgeleitet_von": [
+			"KauFbeuren"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bad Kissingen"
+		],
+		"abgeleitet_von": [
+			"KissinGen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bad Kreuznach"
+		],
+		"abgeleitet_von": [
+			"KreuznacH"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "KI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Kiel"
+		],
+		"abgeleitet_von": [
+			"KIel"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "KIB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Donnersbergkreis"
+		],
+		"abgeleitet_von": [
+			"KIrchheimBolanden"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "KK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Viersen"
+		],
+		"abgeleitet_von": [
+			"Kempen, Krefeld"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "KL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Kaiserslautern",
+			"Landkreis Kaiserslautern"
+		],
+		"abgeleitet_von": [
+			"KaisersLautern"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "KLE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Kleve"
+		],
+		"abgeleitet_von": [
+			"KLEve"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "KLZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Altmarkkreis Salzwedel"
+		],
+		"abgeleitet_von": [
+			"KLötZe"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "KM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bautzen"
+		],
+		"abgeleitet_von": [
+			"KaMenz"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "KN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Konstanz ohne die Gemeinde Büsingen am Hochrhein"
+		],
+		"abgeleitet_von": [
+			"KoNstanz"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "KO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Koblenz"
+		],
+		"abgeleitet_von": [
+			"KOblenz"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "KÖN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rhön-Grabfeld"
+		],
+		"abgeleitet_von": [
+			"KÖNigshofen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KÖT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Anhalt-Bitterfeld"
+		],
+		"abgeleitet_von": [
+			"KÖThen"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "KÖZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Cham"
+		],
+		"abgeleitet_von": [
+			"KÖtZting"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Krefeld"
+		],
+		"abgeleitet_von": [
+			"KRefeld"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "KRU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Günzburg"
+		],
+		"abgeleitet_von": [
+			"KRUmbach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kassel und Stadt Kassel"
+		],
+		"abgeleitet_von": [
+			"KasSel"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "KT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kitzingen"
+		],
+		"abgeleitet_von": [
+			"KiTzingen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kulmbach"
+		],
+		"abgeleitet_von": [
+			"KUlmbach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "KÜN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Hohenlohekreis"
+		],
+		"abgeleitet_von": [
+			"KÜNzelsau"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "KUS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kusel"
+		],
+		"abgeleitet_von": [
+			"KUSel"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "KW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Dahme-Spreewald"
+		],
+		"abgeleitet_von": [
+			"Königs Wusterhausen"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "KY",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ostprignitz-Ruppin"
+		],
+		"abgeleitet_von": [
+			"KYritz"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "KYF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kyffhäuserkreis"
+		],
+		"abgeleitet_von": [
+			"KYFfhäuser"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "L",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Leipzig",
+			"Landkreis Leipzig"
+		],
+		"abgeleitet_von": [
+			"Leipzig"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "LA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Landshut",
+			"Landkreis Landshut"
+		],
+		"abgeleitet_von": [
+			"LAndshut"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "LAN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Dingolfing-Landau"
+		],
+		"abgeleitet_von": [
+			"LANdau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "LAU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nürnberger Land"
+		],
+		"abgeleitet_von": [
+			"LAUf"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "LB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ludwigsburg"
+		],
+		"abgeleitet_von": [
+			"LudwigsBurg"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "LBS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saale-Orla-Kreis"
+		],
+		"abgeleitet_von": [
+			"LoBenStein"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "LBZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ludwigslust-Parchim"
+		],
+		"abgeleitet_von": [
+			"LüBZ"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "LC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Dahme-Spreewald"
+		],
+		"abgeleitet_von": [
+			"LuCkau"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "LD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Landau in der Pfalz"
+		],
+		"abgeleitet_von": [
+			"LanDau"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "LDK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Lahn-Dill-Kreis"
+		],
+		"abgeleitet_von": [
+			"Lahn-Dill-Kreis"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "LDS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Dahme-Spreewald"
+		],
+		"abgeleitet_von": [
+			"Landkreis Dahme-Spreewald"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "LEO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Böblingen"
+		],
+		"abgeleitet_von": [
+			"LEOnberg"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "LER",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Leer"
+		],
+		"abgeleitet_von": [
+			"LEeR"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "LEV",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Leverkusen"
+		],
+		"abgeleitet_von": [
+			"LEVerkusen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "LF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Altötting",
+			"Landkreis Berchtesgadener Land",
+			"Landkreis Traunstein"
+		],
+		"abgeleitet_von": [
+			"LauFen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "LG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Lüneburg"
+		],
+		"abgeleitet_von": [
+			"LüneburG"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "LH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Coesfeld",
+			"Kreis Unna"
+		],
+		"abgeleitet_von": [
+			"LüdingHausen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "LI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Lindau (Bodensee)"
+		],
+		"abgeleitet_von": [
+			"LIndau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "LIB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Elbe-Elster"
+		],
+		"abgeleitet_von": [
+			"LIeBenwerda"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "LIF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Lichtenfels"
+		],
+		"abgeleitet_von": [
+			"LIchtenFels"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "LIP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Lippe"
+		],
+		"abgeleitet_von": [
+			"LIPpe"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "LL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Landsberg am Lech"
+		],
+		"abgeleitet_von": [
+			"Landsberg am Lech"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "LM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Limburg-Weilburg"
+		],
+		"abgeleitet_von": [
+			"LiMburg"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "LN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Dahme-Spreewald"
+		],
+		"abgeleitet_von": [
+			"LübbeN"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "LÖ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Lörrach"
+		],
+		"abgeleitet_von": [
+			"LÖrrach"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "LÖB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Görlitz"
+		],
+		"abgeleitet_von": [
+			"LÖBau"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "LOS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Oder-Spree"
+		],
+		"abgeleitet_von": [
+			"Landkreis Oder-Spree"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "LP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Soest"
+		],
+		"abgeleitet_von": [
+			"LiPpstadt"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "LR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ortenaukreis"
+		],
+		"abgeleitet_von": [
+			"LahR"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "LRO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rostock"
+		],
+		"abgeleitet_von": [
+			"Landkreis ROstock"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "LSA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Sachsen-Anhalt, Landesregierung, Landtag und Polizei"
+		],
+		"abgeleitet_von": [
+			"Land Sachsen-Anhalt"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "LSN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Sachsen, Landesregierung und Landtag"
+		],
+		"abgeleitet_von": [
+			"Landtag SachseN"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "LSZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Unstrut-Hainich-Kreis"
+		],
+		"abgeleitet_von": [
+			"LangenSalZa"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "LU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Ludwigshafen am Rhein"
+		],
+		"abgeleitet_von": [
+			"LUdwigshafen"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "LÜN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Unna"
+		],
+		"abgeleitet_von": [
+			"LÜNen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "LUP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ludwigslust-Parchim"
+		],
+		"abgeleitet_von": [
+			"LUdwigslust, Parchim"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "LWL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ludwigslust-Parchim"
+		],
+		"abgeleitet_von": [
+			"LudWigsLust"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "M",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt München",
+			"Landkreis München"
+		],
+		"abgeleitet_von": [
+			"München"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Mannheim"
+		],
+		"abgeleitet_von": [
+			"MAnnheim"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "MAB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Erzgebirgskreis"
+		],
+		"abgeleitet_von": [
+			"MArienBerg"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "MAI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kelheim",
+			"Landkreis Landshut"
+		],
+		"abgeleitet_von": [
+			"MAInburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MAK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Wunsiedel im Fichtelgebirge"
+		],
+		"abgeleitet_von": [
+			"MArKtredwitz"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MAL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Landshut",
+			"Landkreis Straubing-Bogen"
+		],
+		"abgeleitet_von": [
+			"MALlersdorf"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Miesbach"
+		],
+		"abgeleitet_von": [
+			"MiesBach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"MalChin"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "MD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Magdeburg"
+		],
+		"abgeleitet_von": [
+			"MagDeburg"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "ME",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Mettmann"
+		],
+		"abgeleitet_von": [
+			"MEttmann"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "MED",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Dithmarschen"
+		],
+		"abgeleitet_von": [
+			"MElDorf"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "MEG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Schwalm-Eder-Kreis"
+		],
+		"abgeleitet_von": [
+			"MElsunGen"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "MEI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Meißen"
+		],
+		"abgeleitet_von": [
+			"MEIßen"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "MEK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Erzgebirgskreis"
+		],
+		"abgeleitet_von": [
+			"Mittlerer ErzgebirgsKreis"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "MEL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Osnabrück"
+		],
+		"abgeleitet_von": [
+			"MELle"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "MER",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saalekreis"
+		],
+		"abgeleitet_von": [
+			"MERseburg"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "MET",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rhön-Grabfeld"
+		],
+		"abgeleitet_von": [
+			"MEllrichstadT"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Mönchengladbach"
+		],
+		"abgeleitet_von": [
+			"MönchenGladbach"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "MGH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Main-Tauber-Kreis"
+		],
+		"abgeleitet_von": [
+			"MerGentHeim"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "MGN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Schmalkalden-Meiningen"
+		],
+		"abgeleitet_von": [
+			"MeininGeN"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "MH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Mülheim an der Ruhr"
+		],
+		"abgeleitet_von": [
+			"MülHeim"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "MHL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Unstrut-Hainich-Kreis"
+		],
+		"abgeleitet_von": [
+			"MüHLhausen"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "MI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Minden-Lübbecke"
+		],
+		"abgeleitet_von": [
+			"MInden"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "MIL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Miltenberg"
+		],
+		"abgeleitet_von": [
+			"MILtenberg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Märkischer Kreis"
+		],
+		"abgeleitet_von": [
+			"Märkischer Kreis"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "MKK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Main-Kinzig-Kreis ohne die Stadt Hanau"
+		],
+		"abgeleitet_von": [
+			"Main-Kinzig-Kreis"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "ML",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mansfeld-Südharz"
+		],
+		"abgeleitet_von": [
+			"Mansfelder Land"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "MM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Memmingen"
+		],
+		"abgeleitet_von": [
+			"MemMingen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Unterallgäu"
+		],
+		"abgeleitet_von": [
+			"MiNdelheim"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Wesel"
+		],
+		"abgeleitet_von": [
+			"MOers"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "MOD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ostallgäu"
+		],
+		"abgeleitet_von": [
+			"MarktOberDorf"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MOL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Märkisch-Oderland"
+		],
+		"abgeleitet_von": [
+			"Märkisch-OderLand"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "MON",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Städteregion Aachen",
+			"Kreis Düren"
+		],
+		"abgeleitet_von": [
+			"MONschau"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "MOS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Neckar-Odenwald-Kreis"
+		],
+		"abgeleitet_von": [
+			"MOSbach"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "MQ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saalekreis"
+		],
+		"abgeleitet_von": [
+			"Merseburg, Querfurt"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "MR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Marburg-Biedenkopf"
+		],
+		"abgeleitet_von": [
+			"MaRburg"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "MS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Münster"
+		],
+		"abgeleitet_von": [
+			"MünSter"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "MSE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"Mecklenburgische SEenplatte"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "MSH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mansfeld-Südharz"
+		],
+		"abgeleitet_von": [
+			"Mansfeld, SüdHarz"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "MSP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Main-Spessart"
+		],
+		"abgeleitet_von": [
+			"Main, SPessart"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MST",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"Mecklenburg-STrelitz"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "MTK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Main-Taunus-Kreis"
+		],
+		"abgeleitet_von": [
+			"Main-Taunus-Kreis"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "MTL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Leipzig"
+		],
+		"abgeleitet_von": [
+			"MuldenTaL"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "MÜ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mühldorf am Inn"
+		],
+		"abgeleitet_von": [
+			"MÜhldorf"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MÜB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bayreuth",
+			"Landkreis Hof"
+		],
+		"abgeleitet_von": [
+			"MÜnchBerg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "MÜR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"MÜRitz"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "MVL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Mecklenburg-Vorpommern, Landesregierung, Landtag und Polizei"
+		],
+		"abgeleitet_von": [
+			"Mecklenburg-Vorpommerscher Landtag"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "MW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mittelsachsen"
+		],
+		"abgeleitet_von": [
+			"MittWeida"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "MY",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mayen-Koblenz"
+		],
+		"abgeleitet_von": [
+			"MaYen"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "MYK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mayen-Koblenz"
+		],
+		"abgeleitet_von": [
+			"MaYen, Koblenz"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "MZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Mainz",
+			"Landkreis Mainz-Bingen"
+		],
+		"abgeleitet_von": [
+			"MainZ"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "MZG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Merzig-Wadern"
+		],
+		"abgeleitet_von": [
+			"MerZiG"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "N",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Nürnberg",
+			"Landkreis Nürnberger Land"
+		],
+		"abgeleitet_von": [
+			"Nürnberg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NAB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Amberg-Sulzbach",
+			"Landkreis Schwandorf"
+		],
+		"abgeleitet_von": [
+			"NABburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NAI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Hof"
+		],
+		"abgeleitet_von": [
+			"NAIla"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NAU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Havelland"
+		],
+		"abgeleitet_von": [
+			"NAUen"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "NB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"NeuBrandenburg"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "ND",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neuburg-Schrobenhausen"
+		],
+		"abgeleitet_von": [
+			"Neuburg an der Donau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NDH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordhausen"
+		],
+		"abgeleitet_von": [
+			"NorDHausen"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "NE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Kreis Neuss"
+		],
+		"abgeleitet_von": [
+			"NEuss"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "NEA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neustadt an der Aisch-Bad Windsheim"
+		],
+		"abgeleitet_von": [
+			"NEustadt an der Aisch"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NEB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Burgenlandkreis"
+		],
+		"abgeleitet_von": [
+			"NEBra"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "NEC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Coburg und Landkreis Coburg"
+		],
+		"abgeleitet_von": [
+			"NEustadt bei Coburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NEN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Schwandorf"
+		],
+		"abgeleitet_von": [
+			"NEuNburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NES",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rhön-Grabfeld"
+		],
+		"abgeleitet_von": [
+			"NEustadt an der Saale"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NEW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neustadt an der Waldnaab"
+		],
+		"abgeleitet_von": [
+			"NEustadt an der Waldnaab"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Nordfriesland"
+		],
+		"abgeleitet_von": [
+			"NordFriesland"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "NH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Sonneberg"
+		],
+		"abgeleitet_von": [
+			"NeuHaus"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "NI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nienburg/Weser"
+		],
+		"abgeleitet_von": [
+			"NIenburg"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "NK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neunkirchen"
+		],
+		"abgeleitet_von": [
+			"NeunKirchen"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "NL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Niedersachsen, Landesregierung und Landtag"
+		],
+		"abgeleitet_von": [
+			"Niedersächsischer Landtag"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "NM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neumarkt in der Oberpfalz"
+		],
+		"abgeleitet_von": [
+			"NeuMarkt"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NMB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Burgenlandkreis"
+		],
+		"abgeleitet_von": [
+			"NauMBurg"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "NMS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Neumünster"
+		],
+		"abgeleitet_von": [
+			"NeuMünSter"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "NÖ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Donau-Ries"
+		],
+		"abgeleitet_von": [
+			"NÖrdlingen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NOH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Grafschaft Bentheim"
+		],
+		"abgeleitet_von": [
+			"NOrdHorn"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "NOL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Görlitz"
+		],
+		"abgeleitet_von": [
+			"Niederschlesische OberLausitz"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "NOM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Northeim"
+		],
+		"abgeleitet_von": [
+			"NOrtheiM"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "NOR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Aurich"
+		],
+		"abgeleitet_von": [
+			"NORden"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "NP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ostprignitz-Ruppin"
+		],
+		"abgeleitet_von": [
+			"NeurupPin"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "NR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neuwied"
+		],
+		"abgeleitet_von": [
+			"Neuwied am Rhein"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "NRW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Nordrhein-Westfalen, Landesregierung, Landtag und Polizei"
+		],
+		"abgeleitet_von": [
+			"NordRhein-Westfalen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "NT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Esslingen"
+		],
+		"abgeleitet_von": [
+			"NürTingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "NU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neu-Ulm"
+		],
+		"abgeleitet_von": [
+			"Neu-Ulm"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "NVP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Rügen ohne die Stadt Stralsund"
+		],
+		"abgeleitet_von": [
+			"NordVorPommern"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "NW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Neustadt an der Weinstraße"
+		],
+		"abgeleitet_von": [
+			"Neustadt an der Weinstraße"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "NWM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordwestmecklenburg ohne die Stadt Wismar"
+		],
+		"abgeleitet_von": [
+			"NordWestMecklenburg"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "NY",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Görlitz"
+		],
+		"abgeleitet_von": [
+			"NieskY"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "NZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"NeustrelitZ"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "OA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Oberallgäu"
+		],
+		"abgeleitet_von": [
+			"OberAllgäu"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "OAL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ostallgäu"
+		],
+		"abgeleitet_von": [
+			"OstALlgäu"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "OB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Oberhausen"
+		],
+		"abgeleitet_von": [
+			"OBerhausen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "OBB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Miltenberg"
+		],
+		"abgeleitet_von": [
+			"OBernBurg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "OBG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Stendal"
+		],
+		"abgeleitet_von": [
+			"OsterBurG"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "OC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Börde"
+		],
+		"abgeleitet_von": [
+			"OsChersleben"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "OCH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Würzburg"
+		],
+		"abgeleitet_von": [
+			"OCHsenfurt"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "OD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Stormarn"
+		],
+		"abgeleitet_von": [
+			"OlDesloe"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "OE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Olpe"
+		],
+		"abgeleitet_von": [
+			"OlpE"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "OF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Offenbach und Stadt Offenbach am Main"
+		],
+		"abgeleitet_von": [
+			"OFfenbach"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "OG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ortenaukreis"
+		],
+		"abgeleitet_von": [
+			"OffenburG"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "OH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Ostholstein"
+		],
+		"abgeleitet_von": [
+			"OstHolstein"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "OHA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Göttingen ohne die Stadt Göttingen"
+		],
+		"abgeleitet_von": [
+			"Osterode am HArz"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "ÖHR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Hohenlohekreis"
+		],
+		"abgeleitet_von": [
+			"ÖHRingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "OHV",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Oberhavel"
+		],
+		"abgeleitet_von": [
+			"OberHaVel"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "OHZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Osterholz"
+		],
+		"abgeleitet_von": [
+			"OsterHolZ"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "OK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Börde"
+		],
+		"abgeleitet_von": [
+			"OhreKreis"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "OL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Oldenburg",
+			"Landkreis Oldenburg"
+		],
+		"abgeleitet_von": [
+			"OLdenburg"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "OP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Leverkusen"
+		],
+		"abgeleitet_von": [
+			"OPladen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "OPR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ostprignitz-Ruppin"
+		],
+		"abgeleitet_von": [
+			"OstPrignitz, Ruppin"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "OS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Osnabrück",
+			"Landkreis Osnabrück"
+		],
+		"abgeleitet_von": [
+			"OSnabrück"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "OSL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Oberspreewald-Lausitz"
+		],
+		"abgeleitet_von": [
+			"OberSpreewald, Lausitz"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "OTW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neunkirchen"
+		],
+		"abgeleitet_von": [
+			"OTtWeiler"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "OVI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Schwandorf"
+		],
+		"abgeleitet_von": [
+			"OberVIechtach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "OVL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Vogtlandkreis"
+		],
+		"abgeleitet_von": [
+			"OberVogtLand"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "OVP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"OstVorPommern"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "OZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordsachsen"
+		],
+		"abgeleitet_von": [
+			"OschatZ"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "P",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Potsdam"
+		],
+		"abgeleitet_von": [
+			"Potsdam"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "PA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Passau",
+			"Landkreis Passau"
+		],
+		"abgeleitet_von": [
+			"PAssau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "PAF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Pfaffenhofen an der Ilm"
+		],
+		"abgeleitet_von": [
+			"PfAFfenhofen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "PAN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rottal-Inn"
+		],
+		"abgeleitet_von": [
+			"PfArrkircheN"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "PAR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kelheim",
+			"Landkreis Neumarkt in der Oberpfalz"
+		],
+		"abgeleitet_von": [
+			"PARsberg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "PB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Paderborn"
+		],
+		"abgeleitet_von": [
+			"PaderBorn"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "PCH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ludwigslust-Parchim"
+		],
+		"abgeleitet_von": [
+			"ParCHim"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "PE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Peine"
+		],
+		"abgeleitet_von": [
+			"PEine"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "PEG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bayreuth",
+			"Landkreis Forchheim",
+			"Landkreis Nürnberger Land"
+		],
+		"abgeleitet_von": [
+			"PEGnitz"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "PF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Pforzheim",
+			"Enzkreis"
+		],
+		"abgeleitet_von": [
+			"PForzheim"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "PI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Pinneberg"
+		],
+		"abgeleitet_von": [
+			"PInneberg"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "PIR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Sächsische Schweiz-Osterzgebirge"
+		],
+		"abgeleitet_von": [
+			"PIRna"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "PL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Vogtlandkreis"
+		],
+		"abgeleitet_von": [
+			"PLauen"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "PLÖ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Plön"
+		],
+		"abgeleitet_von": [
+			"PLÖn"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "PM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Potsdam-Mittelmark"
+		],
+		"abgeleitet_von": [
+			"Potsdam, Mittelmark"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "PN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saale-Orla-Kreis"
+		],
+		"abgeleitet_von": [
+			"PößNeck"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "PR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Prignitz"
+		],
+		"abgeleitet_von": [
+			"PRignitz"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "PRÜ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Eifelkreis Bitburg-Prüm"
+		],
+		"abgeleitet_von": [
+			"PRÜm"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "PS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Pirmasens",
+			"Landkreis Südwestpfalz"
+		],
+		"abgeleitet_von": [
+			"PirmaSens"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "PW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"PaseWalk"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "PZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Uckermark"
+		],
+		"abgeleitet_von": [
+			"PrenZlau"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "QFT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saalekreis"
+		],
+		"abgeleitet_von": [
+			"QuerFurT"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "QLB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Harz"
+		],
+		"abgeleitet_von": [
+			"QuedLinBurg"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "R",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Regensburg",
+			"Landkreis Regensburg"
+		],
+		"abgeleitet_von": [
+			"Regensburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "RA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rastatt"
+		],
+		"abgeleitet_von": [
+			"RAstatt"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "RC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Vogtlandkreis"
+		],
+		"abgeleitet_von": [
+			"ReiChenbach"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "RD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Rendsburg-Eckernförde"
+		],
+		"abgeleitet_von": [
+			"RenDsburg"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "RDG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Rügen ohne die Stadt Stralsund"
+		],
+		"abgeleitet_von": [
+			"Ribnitz-DamGarten"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "RE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Recklinghausen"
+		],
+		"abgeleitet_von": [
+			"REcklinghausen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "REG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Regen"
+		],
+		"abgeleitet_von": [
+			"REGen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "REH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Hof",
+			"Landkreis Wunsiedel im Fichtelgebirge"
+		],
+		"abgeleitet_von": [
+			"REHau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "REI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Berchtesgadener Land"
+		],
+		"abgeleitet_von": [
+			"REIchenhall"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "RG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Meißen"
+		],
+		"abgeleitet_von": [
+			"Riesa, Großenhain"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "RH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Roth"
+		],
+		"abgeleitet_von": [
+			"RotH"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "RI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Schaumburg"
+		],
+		"abgeleitet_von": [
+			"RInteln"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "RID",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kelheim"
+		],
+		"abgeleitet_von": [
+			"RIeDenburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "RIE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Meißen"
+		],
+		"abgeleitet_von": [
+			"RIEsa"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "RL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mittelsachsen"
+		],
+		"abgeleitet_von": [
+			"RochLitz"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "RM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"Röbel/Müritz"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "RN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Havelland"
+		],
+		"abgeleitet_von": [
+			"RatheNow"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "RO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Rosenheim",
+			"Landkreis Rosenheim"
+		],
+		"abgeleitet_von": [
+			"ROsenheim"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ROD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Cham",
+			"Landkreis Schwandorf"
+		],
+		"abgeleitet_von": [
+			"RODing"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ROF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Hersfeld-Rotenburg"
+		],
+		"abgeleitet_von": [
+			"ROtenburg an der Fulda"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "ROK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Donnersbergkreis"
+		],
+		"abgeleitet_von": [
+			"ROcKenhausen"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "ROL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kelheim",
+			"Landkreis Landshut"
+		],
+		"abgeleitet_von": [
+			"ROttenburg an der Laaber"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ROS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rostock"
+		],
+		"abgeleitet_von": [
+			"ROStock"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "ROT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ansbach"
+		],
+		"abgeleitet_von": [
+			"ROthenburg ob der Tauber"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "ROW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rotenburg (Wümme)"
+		],
+		"abgeleitet_von": [
+			"ROtenburg (Wümme)"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "RP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Pfalz-Kreis"
+		],
+		"abgeleitet_von": [
+			"Rhein-Pfalz"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "RPL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rheinland-Pfalz, Landesregierung, Landtag und Polizei"
+		],
+		"abgeleitet_von": [
+			"Rheinland-Pfälzischer Landtag"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "RS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Remscheid"
+		],
+		"abgeleitet_von": [
+			"RemScheid"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "RSL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Dessau-Roßlau"
+		],
+		"abgeleitet_von": [
+			"RosSLau"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "RT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Reutlingen"
+		],
+		"abgeleitet_von": [
+			"ReuTlingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "RU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Saalfeld-Rudolstadt"
+		],
+		"abgeleitet_von": [
+			"RUdolstadt"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "RÜD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rheingau-Taunus-Kreis"
+		],
+		"abgeleitet_von": [
+			"RÜDesheim"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "RÜG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Rügen ohne die Stadt Stralsund"
+		],
+		"abgeleitet_von": [
+			"RÜGen"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "RV",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ravensburg"
+		],
+		"abgeleitet_von": [
+			"RaVensburg"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "RW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rottweil"
+		],
+		"abgeleitet_von": [
+			"RottWeil"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "RZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Herzogtum Lauenburg"
+		],
+		"abgeleitet_von": [
+			"RatZeburg"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "S",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Stuttgart"
+		],
+		"abgeleitet_von": [
+			"Stuttgart"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "SAB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Trier-Saarburg"
+		],
+		"abgeleitet_von": [
+			"SAarBurg"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "SAD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Schwandorf"
+		],
+		"abgeleitet_von": [
+			"SchwAnDorf"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SÄK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Waldshut"
+		],
+		"abgeleitet_von": [
+			"SÄcKingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "SAL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saarland, Landesregierung, Landtag und Polizei"
+		],
+		"abgeleitet_von": [
+			"SAarländischer Landtag"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "SAN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Hof",
+			"Landkreis Kronach",
+			"Landkreis Kulmbach"
+		],
+		"abgeleitet_von": [
+			"StAdtsteiNach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SAW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Altmarkkreis Salzwedel"
+		],
+		"abgeleitet_von": [
+			"SAlzWedel"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "SB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Regionalverband Saarbrücken ohne die Stadt Völklingen"
+		],
+		"abgeleitet_von": [
+			"SaarBrücken"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "SBG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"StrasBurG"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "SBK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Salzlandkreis"
+		],
+		"abgeleitet_von": [
+			"SchöneBecK"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "SC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Schwabach"
+		],
+		"abgeleitet_von": [
+			"SChwabach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SCZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saale-Orla-Kreis"
+		],
+		"abgeleitet_von": [
+			"SChleiZ"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SDH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kyffhäuserkreis"
+		],
+		"abgeleitet_von": [
+			"SonDersHausen"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SDL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Stendal"
+		],
+		"abgeleitet_von": [
+			"StenDaL"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "SDT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Uckermark"
+		],
+		"abgeleitet_von": [
+			"SchweDT"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "SE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Segeberg"
+		],
+		"abgeleitet_von": [
+			"SEgeberg"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "SEB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Sächsische Schweiz-Osterzgebirge"
+		],
+		"abgeleitet_von": [
+			"SEBnitz"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "SEE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Märkisch-Oderland"
+		],
+		"abgeleitet_von": [
+			"SEElow"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "SEF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neustadt an der Aisch-Bad Windsheim"
+		],
+		"abgeleitet_von": [
+			"SchEinFeld"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SEL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Wunsiedel im Fichtelgebirge"
+		],
+		"abgeleitet_von": [
+			"SELb"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SFB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Oberspreewald-Lausitz"
+		],
+		"abgeleitet_von": [
+			"SenFtenBerg"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "SFT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Salzlandkreis"
+		],
+		"abgeleitet_von": [
+			"StaßFurT"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "SG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Solingen"
+		],
+		"abgeleitet_von": [
+			"SolinGen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "SGH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mansfeld-Südharz"
+		],
+		"abgeleitet_von": [
+			"SanGerHausen"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "SH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Schleswig-Holstein, Landesregierung, Landtag und Polizei"
+		],
+		"abgeleitet_von": [
+			"Schleswig-Holstein"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "SHA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Schwäbisch Hall"
+		],
+		"abgeleitet_von": [
+			"Schwäbisch HAll"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "SHG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Schaumburg"
+		],
+		"abgeleitet_von": [
+			"StadtHaGen"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "SHK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saale-Holzland-Kreis"
+		],
+		"abgeleitet_von": [
+			"Saale-Holzland-Kreis"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SHL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Suhl"
+		],
+		"abgeleitet_von": [
+			"SuHL"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Siegen-Wittgenstein"
+		],
+		"abgeleitet_von": [
+			"SIegen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "SIG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Sigmaringen"
+		],
+		"abgeleitet_von": [
+			"SIGmaringen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "SIM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Hunsrück-Kreis"
+		],
+		"abgeleitet_von": [
+			"SIMmern"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "SK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saalekreis"
+		],
+		"abgeleitet_von": [
+			"SaaleKreis"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "SL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Schleswig-Flensburg"
+		],
+		"abgeleitet_von": [
+			"SchLeswig"
+		],
+		"Bundesland": "Schleswig-Holstein"
+	},
+	{
+		"Zeichen": "SLE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Düren",
+			"Kreis Euskirchen"
+		],
+		"abgeleitet_von": [
+			"SchLEiden"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "SLF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Saalfeld-Rudolstadt"
+		],
+		"abgeleitet_von": [
+			"SaaLFeld"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SLG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ravensburg",
+			"Landkreis Sigmaringen"
+		],
+		"abgeleitet_von": [
+			"SauLGau"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "SLK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Salzlandkreis"
+		],
+		"abgeleitet_von": [
+			"SalzLandKreis"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "SLN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Altenburger Land"
+		],
+		"abgeleitet_von": [
+			"SchmölLN"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SLS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Saarlouis"
+		],
+		"abgeleitet_von": [
+			"SaarLouiS"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "SLÜ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Main-Kinzig-Kreis ohne die Stadt Hanau"
+		],
+		"abgeleitet_von": [
+			"SchLÜchtern"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "SLZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Wartburgkreis"
+		],
+		"abgeleitet_von": [
+			"SaLZungen"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Schmalkalden-Meiningen"
+		],
+		"abgeleitet_von": [
+			"SchMalkalden"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SMÜ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Augsburg"
+		],
+		"abgeleitet_von": [
+			"SchwabMÜnchen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Schwerin"
+		],
+		"abgeleitet_von": [
+			"SchweriN"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "SO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Soest"
+		],
+		"abgeleitet_von": [
+			"SOest"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "SOB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neuburg-Schrobenhausen"
+		],
+		"abgeleitet_von": [
+			"SchrOBenhausen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SOG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Weilheim-Schongau"
+		],
+		"abgeleitet_von": [
+			"SchOnGau"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SOK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saale-Orla-Kreis"
+		],
+		"abgeleitet_von": [
+			"Saale-Orla-Kreis"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SÖM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Sömmerda"
+		],
+		"abgeleitet_von": [
+			"SÖMmerda"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SON",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Sonneberg"
+		],
+		"abgeleitet_von": [
+			"SONneberg"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "SP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Speyer"
+		],
+		"abgeleitet_von": [
+			"SPeyer"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "SPB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Spree-Neiße"
+		],
+		"abgeleitet_von": [
+			"SPremBerg"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "SPN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Spree-Neiße"
+		],
+		"abgeleitet_von": [
+			"SPree, Neiße"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "SR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Straubing-Bogen",
+			"Stadt Straubing"
+		],
+		"abgeleitet_von": [
+			"StRaubing"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SRB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Märkisch-Oderland"
+		],
+		"abgeleitet_von": [
+			"StRausBerg"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "SRO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Saale-Holzland-Kreis"
+		],
+		"abgeleitet_von": [
+			"StadtROda"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "ST",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Steinfurt"
+		],
+		"abgeleitet_von": [
+			"STeinfurt"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "STA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Starnberg"
+		],
+		"abgeleitet_von": [
+			"STArnberg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "STB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ludwigslust-Parchim"
+		],
+		"abgeleitet_von": [
+			"STernBerg"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "STD",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Stade"
+		],
+		"abgeleitet_von": [
+			"STaDe"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "STE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Lichtenfels"
+		],
+		"abgeleitet_von": [
+			"STaffelstEin"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "STL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Erzgebirgskreis"
+		],
+		"abgeleitet_von": [
+			"STolLberg"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "STO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Konstanz",
+			"Landkreis Sigmaringen"
+		],
+		"abgeleitet_von": [
+			"STOckach"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "SU",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rhein-Sieg-Kreis"
+		],
+		"abgeleitet_von": [
+			"SiegbUrg"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "SUL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Amberg-Sulzbach"
+		],
+		"abgeleitet_von": [
+			"SULzbach-Rosenberg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SÜW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Südliche Weinstraße"
+		],
+		"abgeleitet_von": [
+			"SÜdliche Weinstraße"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "SW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Schweinfurt",
+			"Landkreis Schweinfurt"
+		],
+		"abgeleitet_von": [
+			"SchWeinfurt"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "SWA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rheingau-Taunus-Kreis"
+		],
+		"abgeleitet_von": [
+			"SchWAlbach"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "SY",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Diepholz"
+		],
+		"abgeleitet_von": [
+			"SYke"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "SZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Salzgitter"
+		],
+		"abgeleitet_von": [
+			"SalZgitter"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "SZB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Erzgebirgskreis"
+		],
+		"abgeleitet_von": [
+			"SchwarZenBerg"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "TBB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Main-Tauber-Kreis"
+		],
+		"abgeleitet_von": [
+			"TauBerBischofsheim"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "TDO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordsachsen"
+		],
+		"abgeleitet_von": [
+			"Torgau, Delitzsch, Oschatz"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "TE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Steinfurt"
+		],
+		"abgeleitet_von": [
+			"TEcklenburg"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "TET",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Rostock"
+		],
+		"abgeleitet_von": [
+			"TETerow"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "TF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Teltow-Fläming"
+		],
+		"abgeleitet_von": [
+			"Teltow, Fläming"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "TG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordsachsen"
+		],
+		"abgeleitet_von": [
+			"TorGau"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "THL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Thüringen, Landesregierung und Landtag"
+		],
+		"abgeleitet_von": [
+			"THüringer Landtag"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "THW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Technisches Hilfswerk"
+		],
+		"abgeleitet_von": [
+			"Technisches HilfsWerk"
+		],
+		"Bundesland": "bundesweit"
+	},
+	{
+		"Zeichen": "TIR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Tirschenreuth"
+		],
+		"abgeleitet_von": [
+			"TIRschenreuth"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "TO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordsachsen"
+		],
+		"abgeleitet_von": [
+			"Torgau, Oschatz"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "TÖL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bad Tölz-Wolfratshausen"
+		],
+		"abgeleitet_von": [
+			"TÖLz"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "TP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Uckermark"
+		],
+		"abgeleitet_von": [
+			"TemPlin"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "TR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Trier-Saarburg und Stadt Trier"
+		],
+		"abgeleitet_von": [
+			"TRier"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "TS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Traunstein"
+		],
+		"abgeleitet_von": [
+			"TraunStein"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "TT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Bodenseekreis"
+		],
+		"abgeleitet_von": [
+			"TeTtnang"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "TÜ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Tübingen"
+		],
+		"abgeleitet_von": [
+			"TÜbingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "TUT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Tuttlingen"
+		],
+		"abgeleitet_von": [
+			"TUTtlingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "ÜB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Bodenseekreis",
+			"Landkreis Ravensburg",
+			"Landkreis Sigmaringen"
+		],
+		"abgeleitet_von": [
+			"ÜBerlingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "UE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Uelzen"
+		],
+		"abgeleitet_von": [
+			"UElzen"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "UEM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"UEckerMünde"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "UER",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"UEcker-Randow"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "UFF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neustadt an der Aisch-Bad Windsheim"
+		],
+		"abgeleitet_von": [
+			"UFFenheim"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "UH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Unstrut-Hainich-Kreis"
+		],
+		"abgeleitet_von": [
+			"Unstrut, Hainich"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "UL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Ulm",
+			"Alb-Donau-Kreis"
+		],
+		"abgeleitet_von": [
+			"ULm"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "UM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Uckermark"
+		],
+		"abgeleitet_von": [
+			"UckerMark"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "UN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Unna"
+		],
+		"abgeleitet_von": [
+			"UNna"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "USI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Hochtaunuskreis"
+		],
+		"abgeleitet_von": [
+			"USIngen"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "V",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Vogtlandkreis"
+		],
+		"abgeleitet_von": [
+			"Vogtland"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "VAI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ludwigsburg"
+		],
+		"abgeleitet_von": [
+			"VAIhingen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "VB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Vogelsbergkreis"
+		],
+		"abgeleitet_von": [
+			"VogelsBerg"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "VEC",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vechta"
+		],
+		"abgeleitet_von": [
+			"VEChta"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "VER",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Verden"
+		],
+		"abgeleitet_von": [
+			"VERden"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "VG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"Vorpommern, Greifswald"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "VIB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Landshut",
+			"Landkreis Mühldorf a.Inn",
+			"Landkreis Rottal-Inn"
+		],
+		"abgeleitet_von": [
+			"VIlsBiburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "VIE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Viersen"
+		],
+		"abgeleitet_von": [
+			"VIErsen"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "VIT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Regen"
+		],
+		"abgeleitet_von": [
+			"VIechTach"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "VK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Völklingen (Mittelstadt im Regionalverband Saarbrücken)"
+		],
+		"abgeleitet_von": [
+			"VölKlingen"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "VOH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Neustadt an der Waldnaab"
+		],
+		"abgeleitet_von": [
+			"VOHenstrauß"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "VR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Rügen ohne die Stadt Stralsund"
+		],
+		"abgeleitet_von": [
+			"Vorpommern, Rügen"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "VS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Schwarzwald-Baar-Kreis"
+		],
+		"abgeleitet_von": [
+			"Villingen-Schwenningen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "W",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Wuppertal"
+		],
+		"abgeleitet_von": [
+			"Wuppertal"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "WA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Waldeck-Frankenberg"
+		],
+		"abgeleitet_von": [
+			"WAldeck"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "WAF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Warendorf"
+		],
+		"abgeleitet_von": [
+			"WArendorF"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "WAK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Wartburgkreis"
+		],
+		"abgeleitet_von": [
+			"WArtburgKreis"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "WAN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Herne"
+		],
+		"abgeleitet_von": [
+			"WANne"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "WAR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Höxter"
+		],
+		"abgeleitet_von": [
+			"WARburg"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "WAT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Bochum"
+		],
+		"abgeleitet_von": [
+			"WATtenscheid"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "WB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Wittenberg"
+		],
+		"abgeleitet_von": [
+			"WittenBerg"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "WBG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Wolfsburg"
+		],
+		"abgeleitet_von": [
+			"WolfsBurG"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "WBS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Eichsfeld"
+		],
+		"abgeleitet_von": [
+			"WorBiS"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "WDA",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Zwickau"
+		],
+		"abgeleitet_von": [
+			"WerDAu"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "WE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Weimar"
+		],
+		"abgeleitet_von": [
+			"WEimar"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "WEL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Limburg-Weilburg"
+		],
+		"abgeleitet_von": [
+			"WEiLburg"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "WEN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Weiden in der Oberpfalz"
+		],
+		"abgeleitet_von": [
+			"WEideN"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WER",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Augsburg",
+			"Landkreis Dillingen an der Donau"
+		],
+		"abgeleitet_von": [
+			"WERtingen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WES",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Kreis Wesel"
+		],
+		"abgeleitet_von": [
+			"WESel"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "WF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Wolfenbüttel"
+		],
+		"abgeleitet_von": [
+			"WolFenbüttel"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "WG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ravensburg"
+		],
+		"abgeleitet_von": [
+			"WanGen"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "WHV",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Wilhelmshaven"
+		],
+		"abgeleitet_von": [
+			"WilhelmsHaVen"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "WI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Wiesbaden"
+		],
+		"abgeleitet_von": [
+			"WIesbaden"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "WIL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bernkastel-Wittlich"
+		],
+		"abgeleitet_von": [
+			"WIttLich"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "WIS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Nordwestmecklenburg ohne die Stadt Wismar"
+		],
+		"abgeleitet_von": [
+			"WISmar"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "WIT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Ennepe-Ruhr-Kreis"
+		],
+		"abgeleitet_von": [
+			"WITten"
+		],
+		"Bundesland": "Nordrhein-Westfalen"
+	},
+	{
+		"Zeichen": "WIZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Werra-Meißner-Kreis"
+		],
+		"abgeleitet_von": [
+			"WItZenhausen"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "WK",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ostprignitz-Ruppin"
+		],
+		"abgeleitet_von": [
+			"WittstocK"
+		],
+		"Bundesland": "Brandenburg"
+	},
+	{
+		"Zeichen": "WL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Harburg"
+		],
+		"abgeleitet_von": [
+			"Winsen (Luhe)"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "WLG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald"
+		],
+		"abgeleitet_von": [
+			"WoLGast"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "WM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Weilheim-Schongau"
+		],
+		"abgeleitet_von": [
+			"WeilheiM"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WMS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Börde"
+		],
+		"abgeleitet_von": [
+			"WolMirStedt"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "WN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Rems-Murr-Kreis"
+		],
+		"abgeleitet_von": [
+			"WaiblingeN"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "WND",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis St. Wendel"
+		],
+		"abgeleitet_von": [
+			"WeNDel"
+		],
+		"Bundesland": "Saarland"
+	},
+	{
+		"Zeichen": "WO",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Worms"
+		],
+		"abgeleitet_von": [
+			"WOrms"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "WOB",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Wolfsburg"
+		],
+		"abgeleitet_von": [
+			"WOlfsBurg"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "WOH",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Kassel"
+		],
+		"abgeleitet_von": [
+			"WOlfHagen"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "WOL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Freudenstadt",
+			"Ortenaukreis"
+		],
+		"abgeleitet_von": [
+			"WOLfach"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "WOR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Bad Tölz-Wolfratshausen",
+			"Landkreis München",
+			"Landkreis Starnberg"
+		],
+		"abgeleitet_von": [
+			"WOlfRatshausen"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WOS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Freyung-Grafenau"
+		],
+		"abgeleitet_von": [
+			"WOlfStein"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Harz"
+		],
+		"abgeleitet_von": [
+			"WernigeRode"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "WRN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg"
+		],
+		"abgeleitet_von": [
+			"WaReN"
+		],
+		"Bundesland": "Mecklenburg-Vorpommern"
+	},
+	{
+		"Zeichen": "WS",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Mühldorf a.Inn",
+			"Landkreis Rosenheim"
+		],
+		"abgeleitet_von": [
+			"WasSerburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WSF",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Burgenlandkreis"
+		],
+		"abgeleitet_von": [
+			"WeisSenFels"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "WST",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Ammerland"
+		],
+		"abgeleitet_von": [
+			"WesterSTede"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "WSW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Görlitz"
+		],
+		"abgeleitet_von": [
+			"WeisSWasser"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "WT",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Waldshut"
+		],
+		"abgeleitet_von": [
+			"WaldshuT"
+		],
+		"Bundesland": "Baden-Württemberg"
+	},
+	{
+		"Zeichen": "WTL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Osnabrück"
+		],
+		"abgeleitet_von": [
+			"WitTLage"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "WTM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Wittmund"
+		],
+		"abgeleitet_von": [
+			"WitTMund"
+		],
+		"Bundesland": "Niedersachsen"
+	},
+	{
+		"Zeichen": "WÜ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Würzburg",
+			"Landkreis Würzburg"
+		],
+		"abgeleitet_von": [
+			"WÜrzburg"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WUG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Weißenburg-Gunzenhausen"
+		],
+		"abgeleitet_von": [
+			"WeißenbUrG"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WÜM",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Cham"
+		],
+		"abgeleitet_von": [
+			"WaldMÜnchen (mit einem Buchstabendreher)"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WUN",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Wunsiedel im Fichtelgebirge"
+		],
+		"abgeleitet_von": [
+			"WUNsiedel"
+		],
+		"Bundesland": "Bayern"
+	},
+	{
+		"Zeichen": "WUR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Leipzig"
+		],
+		"abgeleitet_von": [
+			"WURzen"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "WW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Westerwaldkreis"
+		],
+		"abgeleitet_von": [
+			"WesterWald"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "WZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Lahn-Dill-Kreis"
+		],
+		"abgeleitet_von": [
+			"WetZlar"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "WZL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Börde"
+		],
+		"abgeleitet_von": [
+			"WanZLeben"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "X",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"NATO"
+		],
+		"abgeleitet_von": [],
+		"Bundesland": "bundesweit"
+	},
+	{
+		"Zeichen": "Y",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Bundeswehr"
+		],
+		"abgeleitet_von": [],
+		"Bundesland": "bundesweit"
+	},
+	{
+		"Zeichen": "Z",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Zwickau"
+		],
+		"abgeleitet_von": [
+			"Zwickau"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "ZE",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Anhalt-Bitterfeld"
+		],
+		"abgeleitet_von": [
+			"ZErbst"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	},
+	{
+		"Zeichen": "ZEL",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Cochem-Zell"
+		],
+		"abgeleitet_von": [
+			"ZELl"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "ZI",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Görlitz"
+		],
+		"abgeleitet_von": [
+			"ZIttau"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "ZIG",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Schwalm-Eder-Kreis"
+		],
+		"abgeleitet_von": [
+			"ZIeGenhain"
+		],
+		"Bundesland": "Hessen"
+	},
+	{
+		"Zeichen": "ZP",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Erzgebirgskreis"
+		],
+		"abgeleitet_von": [
+			"ZschoPau"
+		],
+		"Bundesland": "Sachsen"
+	},
+	{
+		"Zeichen": "ZR",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Landkreis Greiz"
+		],
+		"abgeleitet_von": [
+			"ZeulenRoda"
+		],
+		"Bundesland": "Thüringen"
+	},
+	{
+		"Zeichen": "ZW",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Stadt Zweibrücken",
+			"Landkreis Südwestpfalz"
+		],
+		"abgeleitet_von": [
+			"ZWeibrücken"
+		],
+		"Bundesland": "Rheinland-Pfalz"
+	},
+	{
+		"Zeichen": "ZZ",
+		"Stadt_Landkreis_oder_Erklärung": [
+			"Burgenlandkreis"
+		],
+		"abgeleitet_von": [
+			"ZeitZ"
+		],
+		"Bundesland": "Sachsen-Anhalt"
+	}
+]
